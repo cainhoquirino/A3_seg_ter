@@ -8,7 +8,7 @@ O projeto utiliza uma combinação estruturada de dados do Kaggle e dados públi
 - **Base de Dados IBM HR Analytics:** Dados originais focados em métricas de RH, retenção de talentos e avaliação de performance (extraídos via Kaggle).
 - **API do IBGE:** Consumo de dados públicos abertos para extrair o panorama do mercado de trabalho no Brasil.
 - **Tabelas de Ranking - CUSTO DO TRABALHO:** Utilizadas para analisar o impacto financeiro, tributário e o custo real dos profissionais.
-- **Tabelas de Ranking - SALÁRIO:** Base de comparação entre a remuneração do dataset da IBM e a média praticada no mercado brasileiro (IBGE).
+- **Tabelas de Ranking - SALÁRIO:** Base de comparação entre a remuneração do dataset da IBM e a média praticada no mercado brasileiro.
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 Até o momento, a base do pipeline de dados foi construída com:
